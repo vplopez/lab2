@@ -21,6 +21,13 @@ body {
 	background: none;
 }
 
+.project {
+     margin-left: 20px;
+     background-color: #deebf7;
+     padding: 20px;
+     width: 525px;
+}
+
 .jumbotron:after {
      content:"";
      background: url("http://lorempixel.com/1140/283");
